@@ -1,0 +1,787 @@
+[
+    {
+        "ville": "AUBIGNY",
+        "points": [
+            {
+                "adresse": "ch. des Carri\u00e8res - prox. Cimeti\u00e8re",
+                "latitude": 48.920321,
+                "longitude": -0.214718
+            }
+        ]
+    },
+    {
+        "ville": "BAROU-EN-AUGE",
+        "points": [
+            {
+                "adresse": "rte de Trun - parking \u00e9glise",
+                "latitude": 48.932462,
+                "longitude": -0.0424
+            }
+        ]
+    },
+    {
+        "ville": "BEAUMAIS",
+        "points": [
+            {
+                "adresse": "rue de l'Ormeau",
+                "latitude": 48.896333,
+                "longitude": -0.079747
+            }
+        ]
+    },
+    {
+        "ville": "BERNIERES-D'AILLY",
+        "points": [
+            {
+                "adresse": "rue des Promeneurs",
+                "latitude": 48.959213,
+                "longitude": -0.087939
+            }
+        ]
+    },
+    {
+        "ville": "BONNOEIL",
+        "points": [
+            {
+                "adresse": "Parking \u00e9glise",
+                "latitude": 48.925197,
+                "longitude": -0.366253
+            }
+        ]
+    },
+    {
+        "ville": "BONS-TASSILLY",
+        "points": [
+            {
+                "adresse": "Rue du R\u00e9giment de Maisonneuve",
+                "latitude": 48.958863,
+                "longitude": -0.237452
+            }
+        ]
+    },
+    {
+        "ville": "CORDEY",
+        "points": [
+            {
+                "adresse": "\u00c0 c\u00f4t\u00e9 de l'\u00e9glise",
+                "latitude": 48.851649,
+                "longitude": -0.228363
+            }
+        ]
+    },
+    {
+        "ville": "COURCY",
+        "points": [
+            {
+                "adresse": "rte de T\u00f4tes",
+                "latitude": 48.970057,
+                "longitude": -0.038213
+            }
+        ]
+    },
+    {
+        "ville": "CROCY",
+        "points": [
+            {
+                "adresse": "rue Saint-Hilaire",
+                "latitude": 48.879531,
+                "longitude": -0.063126
+            }
+        ]
+    },
+    {
+        "ville": "DAMBLAINVILLE",
+        "points": [
+            {
+                "adresse": "Lot. Des Terres Noires - vers Morteaux",
+                "latitude": 48.917088,
+                "longitude": -0.108326
+            },
+            {
+                "adresse": "A\u00e9rodrome ",
+                "latitude": 48.927361,
+                "longitude": -0.148611
+            }
+        ]
+    },
+    {
+        "ville": "EPANEY",
+        "points": [
+            {
+                "adresse": "ch. De la Queue de Renard - vers Sassy",
+                "latitude": 48.948298,
+                "longitude": -0.165211
+            },
+            {
+                "adresse": "Prox. Ecole",
+                "latitude": 48.949876,
+                "longitude": -0.165577
+            }
+        ]
+    },
+    {
+        "ville": "ERAINES",
+        "points": [
+            {
+                "adresse": "rue de l'\u00c9glise - parking",
+                "latitude": 48.908558,
+                "longitude": -0.160001
+            }
+        ]
+    },
+    {
+        "ville": "ERNES",
+        "points": [
+            {
+                "adresse": "rue de l'\u00c9cole - parking de l'\u00e9cole",
+                "latitude": 49.017475,
+                "longitude": -0.128673
+            },
+            {
+                "adresse": "Rue du Lavoir",
+                "latitude": 49.017841,
+                "longitude": -0.125149
+            }
+        ]
+    },
+    {
+        "ville": "FALAISE",
+        "points": [
+            {
+                "adresse": "boulevard Pasteur",
+                "latitude": 48.891697,
+                "longitude": -0.198599
+            },
+            {
+                "adresse": "Bricomarch\u00e9 \u2013 zone Expansia",
+                "latitude": 48.91332,
+                "longitude": -0.20521
+            },
+            {
+                "adresse": "chemin des Roches",
+                "latitude": 48.891464,
+                "longitude": -0.206659
+            },
+            {
+                "adresse": "voie Panoramique - cimeti\u00e8re",
+                "latitude": 48.900531,
+                "longitude": -0.204449
+            },
+            {
+                "adresse": "route d'\u00c9raines",
+                "latitude": 48.902314,
+                "longitude": -0.192924
+            },
+            {
+                "adresse": "route d'\u00c9couch\u00e9 - prox. Leader Price",
+                "latitude": 48.886706,
+                "longitude": -0.198548
+            },
+            {
+                "adresse": "rue L\u00e9once Macary",
+                "latitude": 48.891032,
+                "longitude": -0.189691
+            },
+            {
+                "adresse": "place Fontaine Couverte",
+                "latitude": 48.889418,
+                "longitude": -0.194932
+            },
+            {
+                "adresse": "rue Saint-Jean - lyc\u00e9e Louis Liard",
+                "latitude": 48.893929,
+                "longitude": -0.194983
+            },
+            {
+                "adresse": "Station essence Leclerc \u2013 zone Expansia",
+                "latitude": 48.910285,
+                "longitude": -0.206411
+            },
+            {
+                "adresse": "rue Georges Cl\u00e9menceau - parking du Carrefour",
+                "latitude": 48.896278,
+                "longitude": -0.193688
+            },
+            {
+                "adresse": "rue de la Ros\u00e9e - gendarmerie",
+                "latitude": 48.903243,
+                "longitude": -0.202934
+            },
+            {
+                "adresse": "rue du Cheval noir - coll\u00e8ge des Douits",
+                "latitude": 48.892395,
+                "longitude": -0.192669
+            },
+            {
+                "adresse": "rue de la Fresnaye",
+                "latitude": 48.895606,
+                "longitude": -0.198998
+            },
+            {
+                "adresse": "rue de la Pavane",
+                "latitude": 48.897006,
+                "longitude": -0.188304
+            },
+            {
+                "adresse": "rue de l'\u00c9p\u00e9e Royale",
+                "latitude": 48.894065,
+                "longitude": -0.184614
+            },
+            {
+                "adresse": "rue des Drakkars",
+                "latitude": 48.885722,
+                "longitude": -0.193346
+            },
+            {
+                "adresse": "rue de Rugles",
+                "latitude": 48.893675,
+                "longitude": -0.187422
+            },
+            {
+                "adresse": "rue du Val d'Ante - prox. Camping",
+                "latitude": 48.895697,
+                "longitude": -0.204194
+            },
+            {
+                "adresse": "avenue d'Hastings",
+                "latitude": 48.899043,
+                "longitude": -0.201673
+            },
+            {
+                "adresse": "rue des Champs Saint-Georges - lyc\u00e9e pro",
+                "latitude": 48.889336,
+                "longitude": -0.189435
+            },
+            {
+                "adresse": "rue des Champs Saint-Georges",
+                "latitude": 48.890524,
+                "longitude": -0.1854
+            },
+            {
+                "adresse": "rue de la Caserne",
+                "latitude": 48.895767,
+                "longitude": -0.189247
+            },
+            {
+                "adresse": "Rue Bad-Neustadt",
+                "latitude": 48.889161,
+                "longitude": -0.198058
+            },
+            {
+                "adresse": "Route d\u2019Argentan",
+                "latitude": 48.886517,
+                "longitude": -0.191196
+            },
+            {
+                "adresse": "Chemin Saulnier \u2013 ZA de Guibray",
+                "latitude": 48.885056,
+                "longitude": -0.185725
+            },
+            {
+                "adresse": "boulevard des Bercagnes - H\u00f4pital",
+                "latitude": 48.892151,
+                "longitude": -0.202962
+            }
+        ]
+    },
+    {
+        "ville": "FONTAINE LE PIN",
+        "points": [
+            {
+                "adresse": "rue Varin - derri\u00e8re \u00e9glise",
+                "latitude": 48.973005,
+                "longitude": -0.285845
+            }
+        ]
+    },
+    {
+        "ville": "FOURCHES",
+        "points": [
+            {
+                "adresse": "rue du Mesnil - parking de l'\u00e9glise",
+                "latitude": 48.86009,
+                "longitude": -0.076864
+            }
+        ]
+    },
+    {
+        "ville": "FOURNEAUX-LE-VAL",
+        "points": [
+            {
+                "adresse": "parking de l'\u00e9cole",
+                "latitude": 48.854985,
+                "longitude": -0.265619
+            }
+        ]
+    },
+    {
+        "ville": "FRESNE-LA-MERE",
+        "points": [
+            {
+                "adresse": "place de l'\u00e9glise - passage \u00e0 niveaux",
+                "latitude": 48.893691,
+                "longitude": -0.122097
+            }
+        ]
+    },
+    {
+        "ville": "JORT",
+        "points": [
+            {
+                "adresse": "rue du Lieutenant Paul Duhomme",
+                "latitude": 48.968956,
+                "longitude": -0.080096
+            }
+        ]
+    },
+    {
+        "ville": "LA HOGUETTE",
+        "points": [
+            {
+                "adresse": "parking de l'\u00e9cole",
+                "latitude": 48.878892,
+                "longitude": -0.16038
+            }
+        ]
+    },
+    {
+        "ville": "LE DETROIT",
+        "points": [
+            {
+                "adresse": "rte des Landes",
+                "latitude": 48.871315,
+                "longitude": -0.347944
+            }
+        ]
+    },
+    {
+        "ville": "LE MARAIS-LA-CHAPELLE",
+        "points": [
+            {
+                "adresse": "Le Marais - D63a - vers Crocy",
+                "latitude": 48.881968,
+                "longitude": -0.02459
+            }
+        ]
+    },
+    {
+        "ville": "LE MESNIL-VILLEMENT",
+        "points": [
+            {
+                "adresse": "rue des \u00e9coles - parking de l'\u00e9glise",
+                "latitude": 48.853349,
+                "longitude": -0.371376
+            }
+        ]
+    },
+    {
+        "ville": "LEFFARD",
+        "points": [
+            {
+                "adresse": "le Frot \u2013 salle",
+                "latitude": 48.915319,
+                "longitude": -0.301832
+            }
+        ]
+    },
+    {
+        "ville": "LES ISLES-BARDEL",
+        "points": [
+            {
+                "adresse": "D128 - vers M\u00e9nil-Hermei",
+                "latitude": 48.836828,
+                "longitude": -0.343607
+            }
+        ]
+    },
+    {
+        "ville": "LES LOGES-SAULCES",
+        "points": [
+            {
+                "adresse": "le Bourg - vers Martigny",
+                "latitude": 48.867395,
+                "longitude": -0.297234
+            }
+        ]
+    },
+    {
+        "ville": "LES MOUTIERS-EN-AUGE",
+        "points": [
+            {
+                "adresse": "prox. Cimeti\u00e8re",
+                "latitude": 48.899769,
+                "longitude": -0.01078
+            }
+        ]
+    },
+    {
+        "ville": "LOUVAGNY",
+        "points": [
+            {
+                "adresse": "sortie Bourg vers Courcy",
+                "latitude": 48.952642,
+                "longitude": -0.045783
+            }
+        ]
+    },
+    {
+        "ville": "MAIZIERES",
+        "points": [
+            {
+                "adresse": "rue du Major Styffe - parking de l'\u00e9glise",
+                "latitude": 49.016575,
+                "longitude": -0.159205
+            },
+            {
+                "adresse": "rue du Major Styffe - stade de foot",
+                "latitude": 49.012262,
+                "longitude": -0.168192
+            }
+        ]
+    },
+    {
+        "ville": "MARTIGNY-SUR-L'ANTE",
+        "points": [
+            {
+                "adresse": "rue de l'\u00e9glise - parking de la mairie",
+                "latitude": 48.884645,
+                "longitude": -0.286572
+            }
+        ]
+    },
+    {
+        "ville": "MORTEAUX-COULIBOEUF",
+        "points": [
+            {
+                "adresse": "le Grand-Couliboeuf",
+                "latitude": 48.93756,
+                "longitude": -0.07452
+            },
+            {
+                "adresse": "le Perrey - parking de la salle des F\u00eates",
+                "latitude": 48.92441,
+                "longitude": -0.075094
+            }
+        ]
+    },
+    {
+        "ville": "NORON-L'ABBAYE",
+        "points": [
+            {
+                "adresse": "les Poiriers",
+                "latitude": 48.895225,
+                "longitude": -0.251873
+            },
+            {
+                "adresse": "les Fieffes - d\u00e9ch\u00e8terie",
+                "latitude": 48.896969,
+                "longitude": -0.22828
+            }
+        ]
+    },
+    {
+        "ville": "NORREY-EN-AUGE",
+        "points": [
+            {
+                "adresse": "le Bourg - face au lavoir",
+                "latitude": 48.912876,
+                "longitude": -0.013854
+            }
+        ]
+    },
+    {
+        "ville": "OLENDON",
+        "points": [
+            {
+                "adresse": "rue de la Roche - prox. Mairie",
+                "latitude": 48.968109,
+                "longitude": -0.172219
+            }
+        ]
+    },
+    {
+        "ville": "OUILLY-LE-TESSON",
+        "points": [
+            {
+                "adresse": "rue du 16 ao\u00fbt 1944 - face \u00e0 l'\u00e9glise",
+                "latitude": 48.988789,
+                "longitude": -0.219786
+            }
+        ]
+    },
+    {
+        "ville": "PERRIERES",
+        "points": [
+            {
+                "adresse": "rue des Lib\u00e9rateurs - parking de l'\u00e9glise",
+                "latitude": 48.959472,
+                "longitude": -0.134228
+            }
+        ]
+    },
+    {
+        "ville": "PERTHEVILLE-NERS",
+        "points": [
+            {
+                "adresse": "les Monceaux - prox. Mairie",
+                "latitude": 48.877507,
+                "longitude": -0.110456
+            },
+            {
+                "adresse": "D63 - d\u00e9ch\u00e8terie",
+                "latitude": 48.881032,
+                "longitude": -0.08494
+            }
+        ]
+    },
+    {
+        "ville": "PIERREFITTE-EN-CINGLAIS",
+        "points": [
+            {
+                "adresse": "route de Bonnoeil ",
+                "latitude": 48.903467,
+                "longitude": -0.387328
+            }
+        ]
+    },
+    {
+        "ville": "PIERREPONT",
+        "points": [
+            {
+                "adresse": "Le Mesnil Jacquet - parking de la mairie",
+                "latitude": 48.880675,
+                "longitude": -0.322879
+            }
+        ]
+    },
+    {
+        "ville": "PONT-D'OUILLY",
+        "points": [
+            {
+                "adresse": "rue de la Lib\u00e9ration",
+                "latitude": 48.874606,
+                "longitude": -0.4104
+            },
+            {
+                "adresse": "le Bourg d'Ouilly \u2013 ch\u00e2teau d\u2019eau",
+                "latitude": 48.876354,
+                "longitude": -0.378876
+            },
+            {
+                "adresse": "Base de loisirs",
+                "latitude": 48.870334,
+                "longitude": -0.412555
+            },
+            {
+                "adresse": "les Hogues - Chapelle St-Roch",
+                "latitude": 48.877213,
+                "longitude": -0.439853
+            }
+        ]
+    },
+    {
+        "ville": "POTIGNY",
+        "points": [
+            {
+                "adresse": "place de la 1\u00e8re division blind\u00e9e polonaise",
+                "latitude": 48.968601,
+                "longitude": -0.242157
+            },
+            {
+                "adresse": "rue Louis Bouillard",
+                "latitude": 48.972225,
+                "longitude": -0.24742
+            },
+            {
+                "adresse": "rue Louis Bouillard - ch\u00e2teau d'eau",
+                "latitude": 48.970426,
+                "longitude": -0.251334
+            }
+        ]
+    },
+    {
+        "ville": "RAPILLY",
+        "points": [
+            {
+                "adresse": "D 128 - vers les Isles-Bardel",
+                "latitude": 48.854589,
+                "longitude": -0.336936
+            }
+        ]
+    },
+    {
+        "ville": "ROUVRES",
+        "points": [
+            {
+                "adresse": "rue des Canadiens - lavoir",
+                "latitude": 49.004835,
+                "longitude": -0.172831
+            }
+        ]
+    },
+    {
+        "ville": "SAINT-GERMAIN-LANGOT",
+        "points": [
+            {
+                "adresse": "route de la Lib\u00e9ration",
+                "latitude": 48.922429,
+                "longitude": -0.323244
+            }
+        ]
+    },
+    {
+        "ville": "SAINT-MARTIN-DE-MIEUX",
+        "points": [
+            {
+                "adresse": "le Bourg - parking mairie",
+                "latitude": 48.870854,
+                "longitude": -0.229205
+            }
+        ]
+    },
+    {
+        "ville": "SAINT-PIERRE-CANIVET",
+        "points": [
+            {
+                "adresse": "rue Marie",
+                "latitude": 48.9304,
+                "longitude": -0.218249
+            }
+        ]
+    },
+    {
+        "ville": "SAINT-PIERRE-DU-BU",
+        "points": [
+            {
+                "adresse": "rte des Logettes - lavoir",
+                "latitude": 48.866839,
+                "longitude": -0.216331
+            }
+        ]
+    },
+    {
+        "ville": "SASSY",
+        "points": [
+            {
+                "adresse": "rue du Lavoir",
+                "latitude": 48.984382,
+                "longitude": -0.138399
+            }
+        ]
+    },
+    {
+        "ville": "SOULANGY",
+        "points": [
+            {
+                "adresse": "rue du Pont de Tourville",
+                "latitude": 48.93847,
+                "longitude": -0.220102
+            }
+        ]
+    },
+    {
+        "ville": "SOUMONT-ST-QUENTIN",
+        "points": [
+            {
+                "adresse": "rue des Clos",
+                "latitude": 48.98075,
+                "longitude": -0.231391
+            }
+        ]
+    },
+    {
+        "ville": "TREPREL",
+        "points": [
+            {
+                "adresse": "rue des Rosiers - \u00e9glise",
+                "latitude": 48.897269,
+                "longitude": -0.346654
+            }
+        ]
+    },
+    {
+        "ville": "USSY",
+        "points": [
+            {
+                "adresse": "route du Hamel - parking de l'\u00e9cole",
+                "latitude": 48.949955,
+                "longitude": -0.284831
+            }
+        ]
+    },
+    {
+        "ville": "VENDEUVRE",
+        "points": [
+            {
+                "adresse": "rue du Village - Grisy",
+                "latitude": 49.005649,
+                "longitude": -0.058818
+            },
+            {
+                "adresse": "rue de la Butte - passage \u00e0 niveaux",
+                "latitude": 48.991824,
+                "longitude": -0.077009
+            },
+            {
+                "adresse": "chemin d'Ifs - Escures",
+                "latitude": 49.034187,
+                "longitude": -0.087437
+            },
+            {
+                "adresse": "rue des Noyers",
+                "latitude": 48.993192,
+                "longitude": -0.061339
+            }
+        ]
+    },
+    {
+        "ville": "VERSAINVILLE",
+        "points": [
+            {
+                "adresse": "place de l'\u00c9glise",
+                "latitude": 48.917005,
+                "longitude": -0.179601
+            }
+        ]
+    },
+    {
+        "ville": "VICQUES",
+        "points": [
+            {
+                "adresse": "route de Louvagny",
+                "latitude": 48.949609,
+                "longitude": -0.072382
+            }
+        ]
+    },
+    {
+        "ville": "VIGNATS",
+        "points": [
+            {
+                "adresse": "rue des Vignes",
+                "latitude": 48.854406,
+                "longitude": -0.103697
+            }
+        ]
+    },
+    {
+        "ville": "VILLERS-CANIVET",
+        "points": [
+            {
+                "adresse": "route de Thury-Harcourt ",
+                "latitude": 48.937141,
+                "longitude": -0.253804
+            }
+        ]
+    },
+    {
+        "ville": "VILLY-LEZ-FALAISE",
+        "points": [
+            {
+                "adresse": "route de la Hoguette",
+                "latitude": 48.891215,
+                "longitude": -0.143407
+            }
+        ]
+    }
+]
