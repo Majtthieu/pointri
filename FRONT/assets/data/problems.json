@@ -1,0 +1,26 @@
+[
+    {
+        "label": "Le conteneur de tri plastique est plein",
+        "value": "option1"
+    },
+    {
+        "label": "Le conteneur de tri verre est plein",
+        "value": "option2"
+    },
+    {
+        "label": "Un conteneur est abimé",
+        "value": "option3"
+    },
+    {
+        "label": "Le lieu est sale",
+        "value": "option4"
+    },
+    {
+        "label": "La signalétique est manquante",
+        "value": "option5"
+    },
+    {
+        "label": "Autre",
+        "value": "other"
+    }
+]

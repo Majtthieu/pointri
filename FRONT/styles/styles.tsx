@@ -8,6 +8,22 @@ const styles = StyleSheet.create({
     backgroundColor: "#06d6a0",
     paddingTop: Platform.OS === "android" ? 50 : 0,
   },
+  stepContainer: {
+    flex: 1,
+    justifyContent: "space-evenly",
+    alignItems: "center",
+    backgroundColor: "#fff",
+    padding: 20,
+  },
+  pickerContainer: {
+    justifyContent: "center",
+    alignItems: "center",
+    width: "100%",
+    paddingVertical: 20,
+    borderRadius: 5,
+    borderWidth: 1,
+    borderColor: "gray",
+  },
   logoContainer: {
     alignItems: "center",
     marginVertical: 40,
@@ -37,6 +53,23 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     fontSize: 20,
     borderRadius: 5,
+  },
+  picker: {
+    height: 50,
+    width: "90%",
+  },
+  defaultOption: {
+    color: "gray", // Style pour l'option "toucher ici"
+  },
+  pickerItem: {
+    color: "black", // Style pour les autres options
+  },
+  textInput: {
+    height: 40,
+    borderColor: "gray",
+    borderWidth: 1,
+    paddingHorizontal: 10,
+    marginBottom: 20,
   },
 });
 
