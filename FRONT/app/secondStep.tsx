@@ -125,7 +125,7 @@ export default function SecondStep() {
         pouvez également renseigner le lieu vous-même.
       </Text>
       <Text style={styles.paragraph}>Option sélectionnée précédemment :</Text>
-      <Text style={styles.paragraph}>{selectedLabel}</Text>
+      <Text style={[styles.paragraph, styles.highlight]}>{selectedLabel}</Text>
       {comment && (
         <>
           <Text style={styles.paragraph}>Commentaire :</Text>

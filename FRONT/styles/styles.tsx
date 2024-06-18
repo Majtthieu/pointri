@@ -37,10 +37,15 @@ const styles = StyleSheet.create({
     padding: 20,
   },
   image: { width: 250, height: 62 },
+  photo: { width: 200, height: 200, marginBottom: 20 },
   paragraph: {
     marginBottom: 20,
     fontSize: 18,
     textAlign: "left",
+  },
+  highlight: {
+    color: "#118ab2",
+    fontWeight: "bold",
   },
   title: {
     fontSize: 20,
@@ -73,9 +78,10 @@ const styles = StyleSheet.create({
   },
   suggestions: {
     backgroundColor: "#fff",
-    borderColor: "#ccc",
+    borderColor: "gray",
     borderWidth: 1,
     maxHeight: 100,
+    paddingHorizontal: 10,
   },
   scrollContainer: {
     flexGrow: 1,
@@ -83,6 +89,16 @@ const styles = StyleSheet.create({
     alignItems: "center",
     backgroundColor: "#fff",
     padding: 20,
+  },
+  finalButton: {
+    backgroundColor: "#06d6a0",
+    color: "#000",
+  },
+  link: {
+    marginTop: 20,
+    textAlign: "center",
+    color: "#06d6a0",
+    fontSize: 28,
   },
 });
 
